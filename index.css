@@ -1,3 +1,15 @@
 img {
   width: 3000 px;
 }
+        body {
+            font-family: Impact, fantasy;
+            background-color: #ffffff;
+            margin: 40px;
+            color: #333;
+        }
+        h1 {
+            color: #007acc;
+        }
+        p {
+            font-size: 18px;
+        }
